@@ -20,3 +20,8 @@ This repository contains a curated list of GIS data and mapping resources. The i
 - [Federal GIS Resources](#federal-gis-resources)
 
 - [Other Resources](#other-resources)
+
+  - [Form Based Contributions](#form-based-contributions)
+  - [GitHub Contributions](#github-contributions)
+
+---
