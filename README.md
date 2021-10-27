@@ -7,11 +7,11 @@ This repository contains a curated list of GIS data and mapping resources. The i
 ## Contents
 - [Commonly Requested Data and Information](#commonly-requested-data-and-information)
 
-- [County Resources](#county-resources)
+- [Member County Resources](#member-county-resources)
 
 - [County Property Appraisers](#county-property-apprasiers)
 
-- [Municipalities Resources](#municipalities-resources)
+- [Municipal Member Resources](#municipal-member-resources)
 
 - [Other Regional GIS Resources](#other-regional-gis-resources)
 
