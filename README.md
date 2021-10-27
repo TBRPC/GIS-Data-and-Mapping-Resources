@@ -15,7 +15,7 @@ This repository contains a curated list of GIS data and mapping resources. The i
 
   - [Municipal Member Resources](#municipal-member-resources)
 
-  - [Other Regional GIS Resources](#other-regional-gis-resources)
+  - [Regional GIS Resources](#regional-gis-resources)
 
   - [State of Florida GIS Resources](#state-of-florida-gis-resources)
 
