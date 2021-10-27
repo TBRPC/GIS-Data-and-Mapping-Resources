@@ -119,3 +119,7 @@ Data resources that are publicly available for use. Licenses may apply.
 ---
 
 ## Contributing
+
+### Form Based Contributions
+If you don't have a GitHub, but have relevant resources that you would like to contribute, you can use this [Google Form](https://docs.google.com/forms/d/1ZQ7SPrJ8DpoL7pId_CEunPqtjMZYyRdYU8Q-xQLGDJI/prefill). We will look at incorporating it into the repo pending review. 
+
