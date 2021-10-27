@@ -21,6 +21,7 @@ This repository contains a curated list of GIS data and mapping resources. The i
 
 - [Other Resources](#other-resources)
 
+ [Contributing](#contributing)
   - [Form Based Contributions](#form-based-contributions)
   - [GitHub Contributions](#github-contributions)
 
