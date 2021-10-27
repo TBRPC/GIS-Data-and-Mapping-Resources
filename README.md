@@ -5,6 +5,7 @@ This repository contains a curated list of GIS data and mapping resources. The i
 ---
 <!--lint disable awesome-toc-->
 ## Contents
+
 - [Public Data Resources](#public-data-resources)
   - [Commonly Requested Data and Information](#commonly-requested-data-and-information)
 
@@ -25,10 +26,13 @@ This repository contains a curated list of GIS data and mapping resources. The i
 - [Contributing](#contributing)
   - [Form Based Contributions](#form-based-contributions)
   - [GitHub Contributions](#github-contributions)
+- [License and Citation](#license-and-citation)
+
 ---
 
 ## Public Data Resources
--Data resources that are publicly available for use. Licenses may apply. 
+Data resources that are publicly available for use. Licenses may apply. 
+
 ---
 ### Commonly Requested Data and Information
 
