@@ -36,7 +36,7 @@ Data resources that are publicly available for use. Licenses may apply.
 ---
 ### Commonly Requested Data and Information
 
-- [Coastal High Hazard Area](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Coastal Hgh Hazard Area (CHHA) are available in this library.
+- [Coastal High Hazard Area](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Coastal Hgh Hazard Area (CHHA) GIS files are available in this library.
 - [Red Tide Resource](https://www.tbrpc.org/environment/redtide/) -  Red Tide resources and maps compiled by Tampa Bay Regional Planning Council.
-- [Storm Surge Zones](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Storm Surge Zones are available in this library.
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps has released a country wide open building footprints dataset in the United States that is freely available for download and use.
+- [Storm Surge Zones](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Storm Surge Zones GIS files are available in this library.
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps country wide (U.S.) building footprints dataset that is freely available for download and use.
