@@ -1,12 +1,14 @@
 # GIS Data & Mapping Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
-This repository contains a curated list of GIS data and mapping resources. The intention of this list is to assist TBRPC staff, member governments and partners with regional planning information acquisition.
+This repository contains a Tampa Bay Regional Planning Council (TBRPC) curated list of GIS data and mapping resources. The intention of this list is to assist TBRPC staff, member governments and partners with regional planning information acquisition.
 
 ---
 <!--lint disable awesome-toc-->
 ## Contents
 
 - [Public Data Resources](#public-data-resources)
+  - [TBRPC Resources](#tbrpc-resources)
+
   - [Commonly Requested Data and Information](#commonly-requested-data-and-information)
 
   - [Member County Resources](#member-county-resources)
@@ -33,8 +35,11 @@ This repository contains a curated list of GIS data and mapping resources. The i
 Data resources that are publicly available for use. Licenses may apply. 
 
 ---
-### Commonly Requested Data and Information
+### TBRPC Resources
+- [TBRPC GeoHub](https://opendata-tbrpc.hub.arcgis.com/) - Platform for exploring and downloading TBRPC GIS data, discovering maps and apps, and engaging TBRPC member governments to solve important regional issues.
+- [TBRPC FTP Site](ftp://ftp.tbrpc.org/) - Project specific data only accessible via FTP client.
 
+### Commonly Requested Data and Information
 - [Coastal High Hazard Area](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Coastal High Hazard Area (CHHA) GIS files are available in this library.
 - [Red Tide Resource](https://www.tbrpc.org/environment/redtide/) -  Red Tide resources and maps compiled by Tampa Bay Regional Planning Council.
 - [Storm Surge Zones](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Storm Surge Zones GIS files are available in this library.
@@ -100,8 +105,6 @@ Data resources that are publicly available for use. Licenses may apply.
 
 ### Federal GIS Resources
 
-
-
 - [American Community Survey](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information about our nation.
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [Census TIGER Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) - The TIGER/Line Shapefiles are extracts of selected geographic and cartographic information from the Census Bureau.
@@ -121,5 +124,10 @@ Data resources that are publicly available for use. Licenses may apply.
 ## Contributing
 
 ### Form Based Contributions
-If you don't have a GitHub, but have relevant resources that you would like to contribute, you can use this [Google Form](https://docs.google.com/forms/d/1ZQ7SPrJ8DpoL7pId_CEunPqtjMZYyRdYU8Q-xQLGDJI/prefill). We will look at incorporating it into the repo pending review. 
+If you don't have a GitHub, but have relevant resources that you would like to contribute, you can use this [Google Form](https://docs.google.com/forms/----url doesn't work). We will look at incorporating it into the repo pending review. 
 
+
+### GitHub Contributions
+We are actively looking for contributions from those interested in Tampa Bay regional planning and GIS. To find out more, visit the [Contribution](https://github.com/----url doesn't work) page to see our recommended format. 
+
+Thank you to the American Planning Association (APA) Technology Division for the inspiration and template for this repo. Please check out their [Planning Resources GitHub Repo](https://github.com/APA-Technology-Division) for more planning, mapping and GIS resources.
