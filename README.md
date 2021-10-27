@@ -27,7 +27,6 @@ This repository contains a Tampa Bay Regional Planning Council (TBRPC) curated l
 
 - [Contributing](#contributing)
   - [Form Based Contributions](#form-based-contributions)
-  - [GitHub Contributions](#github-contributions)
 
 ---
 
@@ -125,10 +124,6 @@ Data resources that are publicly available for use. Licenses may apply.
 
 ### Form Based Contributions
 If you don't have a GitHub, but have relevant resources that you would like to contribute, you can use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeVUrP16Fu9kZQM7qX5IiaNtWDSoyh9eWbnVby9CyhevZUPGw/viewform?embedded=true). We will look at incorporating it into the repo pending review. 
-
-
-### GitHub Contributions
-We are actively looking for contributions from those interested in Tampa Bay regional planning and GIS. To find out more, visit the [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. 
 
 Thank you to the American Planning Association (APA) Technology Division for the inspiration and template for this repo. Please check out their [GitHub Repo](https://github.com/APA-Technology-Division) for more planning, mapping and GIS resources.
 
