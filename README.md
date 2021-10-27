@@ -28,7 +28,7 @@ This repository contains a curated list of GIS data and mapping resources. The i
 ---
 
 ## Public Data Resources
-Data resources that are publicly available for use. Licenses may apply. 
+-Data resources that are publicly available for use. Licenses may apply. 
 ---
 ### Commonly Requested Data and Information
 
