@@ -42,7 +42,7 @@ Data resources that are publicly available for use. Licenses may apply.
 - [Coastal High Hazard Area](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Coastal High Hazard Area (CHHA) GIS files are available in this library.
 - [Red Tide Resource](https://www.tbrpc.org/environment/redtide/) -  Red Tide resources and maps compiled by Tampa Bay Regional Planning Council.
 - [Storm Surge Zones](https://maps.floridadisaster.org/data/) -  Florida Department of Emergency Management (FDEM) compiled Storm Surge Zones GIS files are available in this library.
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps has released a country wide open building footprints dataset in the United States that is freely available for download and use.
+- [US Building Footprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps has released a country wide open building footprints dataset in the United States that is freely available for download and use.
 
 ### Member County Resources
 - [Citrus County](https://gis.citrusbocc.com/) - Citrus County Geographic Information Systems
