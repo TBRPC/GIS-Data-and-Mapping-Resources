@@ -13,7 +13,7 @@ This repository contains a Tampa Bay Regional Planning Council (TBRPC) curated l
 
   - [Member County Resources](#member-county-resources)
 
-  - [County Property Appraisers](#county-property-apprasiers)
+  - [County Property Appraisers](#county-property-appraisers)
 
   - [Municipal Member Resources](#municipal-member-resources)
 
